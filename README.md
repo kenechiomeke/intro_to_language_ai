@@ -6,8 +6,7 @@ This repository is designed to be a comprehensive, hands-on guide for anyone loo
 
 ### 🤔 Why this Repo?
 
-The world of AI is rapidly evolving, and language models are at its forefront. This repository serves as a companion to my [LinkedIn post](www.linkedin.com/in/
-kenomeke) series, providing:
+The world of AI is rapidly evolving, and language models are at its forefront. This repository serves as a companion to my [LinkedIn post](www.linkedin.com/in/kenomeke) series, providing:
 
 * **Code Implementations:** Practical Python code examples to illustrate theoretical concepts.
 * **Additional Resources:** Links to articles, videos, and research papers for deeper dives.
